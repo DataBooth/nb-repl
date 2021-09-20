@@ -1,3 +1,4 @@
+import jupyter
 import os
 
 def run_notebook(dotipynb_filename=''):
